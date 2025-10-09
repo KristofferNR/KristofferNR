@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I’m from Kalmar, Sweden. I'm currently studying to become a Frontend Developer. So far, I have experience with HTML and CSS, along with some basics in C# — and I’m excited to expand my skills with more languages and frameworks as my journey continues.<br><br>On my GitHub, you’ll find my learning journey — from simple projects in the beginning to more advanced ones as I progress.</p>
+<p align="center">I’m from Kalmar, Sweden. I'm currently studying to become a Frontend Developer. So far, I have experience with HTML and CSS, along with some basics in C# - and I’m excited to expand my skills with more languages and frameworks as my journey continues.<br><br>On my GitHub, you’ll find my learning journey - from simple projects in the beginning to more advanced ones as I progress.</p>
 
 ###
 
