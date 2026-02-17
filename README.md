@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey</h1>
 
 ###
 
-<p align="center">I’m from Kalmar, Sweden. I'm currently studying to become a Frontend Developer. So far, I have experience with HTML and CSS, along with some basics in C# - and I’m excited to expand my skills with more languages and frameworks as my journey continues.<br><br>On my GitHub, you’ll find my learning journey - from simple projects in the beginning to more advanced ones as I progress.</p>
+<p align="center">My name is Kristoffer. I’m from Kalmar, Sweden. I'm currently studying to become a Frontend Developer. So far, I have experience with HTML and CSS, along with some basics in C# - and I’m excited to expand my skills with more languages and frameworks as my journey continues.<br><br>On my GitHub, you’ll find my learning journey - from simple projects in the beginning to more advanced ones as I progress.</p>
 
 ###
 
@@ -19,10 +19,6 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/KristofferNR/KristofferNR/output/snake.svg" alt="Snake animation" />
 
 ###
 
